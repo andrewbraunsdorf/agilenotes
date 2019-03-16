@@ -61,3 +61,34 @@ Schedule of events and Milestones that communicate planned Solution deliverables
 Dev Team is a subset of agile team, Dedicated team develop and test Epic, Story, Feature or component
 Includes devs/testers, engineers, and other dedicated specialists require
 
+Scrum Masters are servant leaders and coaches for an Agile Team.  They educate in Scrum, Extreme Programming, kanban, SAFe
+
+Scrum Masters DO NOT assign tasks.  Agile teams are self-organizing. Developers self-select their components and individual user stories.
+
+Product Owner is a member of the agile team responsible for defining stories and prioritizing the TEAM Backlog to streamline the execution of program priorites while maintaining the conceptual and tecnical integrity of the features
+
+Epics
+Big Picture Goal, then largest objectives down to the minute details
+
+The home based app
+Is a 
+That 
+Unlike
+Our solution
+
+Capabilities and features
+Dont get lost in this piece
+
+
+PI-Program increments
+
+Scrum Board
+When we prepare the Scrum Board
+PBI- Product, Backlog Inventory
+
+Trello-Chrome- Agile
+
+Break down architecture design and architecture development
+-Do this individually
+Have arch design done by Friday’s class
+
