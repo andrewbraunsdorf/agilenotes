@@ -1,0 +1,30 @@
+Agile methodology
+
+Agile, replaced waterfall
+Agile falls under umbrella of SDLC
+Software Development Lifestyle Cycle
+Agile is one piece of the agile lifecycle
+Agile 101 from 30k ft is continous cyclical team oriented development
+
+Concentric circles, perform agile development, then have a retrospective, about how the first sprint went
+
+Jake from GV- Google Ventures- capital ventures
+
+Waterfall- we want certain project developed, management would say what they wanted.  Management would say that isnt what we want.
+
+We are close but that isnt what we want.
+Companies took too long to get their porducts developed and into markets
+Build and test prototype in just 5 days
+Fast forwarding into the future to see how customers react
+Every sprint starts with 7 ppl.
+CEO, sales, engineer, marketing
+Monday make map
+Tuesday- Sketch details
+Wednesday pick best deciisions
+Prototypes
+1,2,3 different types
+Protype marketing
+Friday test products with customers
+Either way you have clarity
+
+Thesprintbook.com
