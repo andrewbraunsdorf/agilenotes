@@ -28,3 +28,36 @@ Friday test products with customers
 Either way you have clarity
 
 Thesprintbook.com
+
+Class 2:
+Scrum is a simple yet incredibly powerful set of principles and practices that helps teams deliver products in short cycles, enabling fast feedback, continual improvement, and rapid adaptation to change.
+
+Scrum, kanban, extreme programming
+Agile is a process of continual review and iteration
+
+What is Agile
+An approach to software dev under which requirements and solutions evlove through the collaborative effort of self history
+
+Waterfall- Requirements- Design- Development- Testing- Deployment- Big outcome at end
+Agile- 
+Req’s Design, Develop - Test - Deploy
+Created MVP- Minimal Viable Product
+
+Agile Tean
+Cross functional group, define, build, test, and where applicable
+The agile team incorporates the Dev Team, Scrum Master, QA, and product Owner roles
+
+Agile Release Train (ART)
+Delivering larger solution value
+Contributes to Vision and Roadmap,
+
+Product Vision
+Vision - Big and inspiring ( use very very very brief statement or slogan)
+Product vision allows everyone to see the big picture and understand why their contributions matter.
+
+Roadmap
+Schedule of events and Milestones that communicate planned Solution deliverables, Milestones over a Timeline, and Program Increment
+
+Dev Team is a subset of agile team, Dedicated team develop and test Epic, Story, Feature or component
+Includes devs/testers, engineers, and other dedicated specialists require
+
