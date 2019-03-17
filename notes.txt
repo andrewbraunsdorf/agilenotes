@@ -92,3 +92,12 @@ Break down architecture design and architecture development
 -Do this individually
 Have arch design done by Friday’s class
 
+When done right, RESTful API endpoints should be easy to test 
+and should have tests covering both obvious use cases as well as expected edge cases for each endpoint. 
+One of the core principles of REST is stateless, 
+which makes our API endpoints small, 
+modular black boxes, ripe for testing. 
+
+New data comes in, successful message comes out, 
+and the newly persisted data changes are easily verifiable in the database. 
+Request for data goes in, expected data response comes out. 
